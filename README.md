@@ -19,9 +19,12 @@ Virtual store application for products and scheduling regional services.
 - [Pagarme](https://pagar.me/)
 - [Typeorm](https://typeorm.io/)
  
+<!--
 ### Migration commands1
-  RUN - yarn typeorm -- -d ./src/shared/infra/typeorm migration:run
-  REVERT - yarn typeorm -- -d ./src/shared/infra/typeorm migration:revert
-  CREATE - yarn typeorm migration:create src/shared/infra/typeorm/migrations/NEWMIGRATION
-  SCHEMA DROP - yarn typeorm -- -d src/shared/infra/typeorm schema:drop
+- RUN - yarn typeorm -- -d ./src/shared/infra/typeorm migration:run
+- REVERT - yarn typeorm -- -d ./src/shared/infra/typeorm migration:revert
+- CREATE - yarn typeorm migration:create src/shared/infra/typeorm/migrations/NEWMIGRATION
+- SCHEMA DROP - yarn typeorm -- -d src/shared/infra/typeorm schema:drop 
+
+-->
  
