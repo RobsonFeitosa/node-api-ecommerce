@@ -10,7 +10,7 @@ Virtual store application for products and scheduling regional services.
 ## 🛠 Tech Stack
 
 - [Nodejs](https://nodejs.org/)
-- [Axios](https://axios-http.com/)
+- [Express](https://expressjs.com/pt-br/)
 - [TypeScript](https://www.typescriptlang.org)
 - [Docker](https://hub.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/)
